@@ -1,0 +1,5 @@
+Liberation Sans — SIL Open Font License, Version 1.1.
+Copyright (c) 2012, Ascender Corporation. Liberation fonts are licensed
+under the SIL Open Font License, Version 1.1 (see https://scripts.sil.org/OFL).
+This entry ships a glyph atlas rendered from Liberation Sans Regular and Bold
+(TrueType) in this session; the font files themselves are not redistributed.
